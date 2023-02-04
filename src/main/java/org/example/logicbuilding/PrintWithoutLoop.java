@@ -1,4 +1,4 @@
-package org.example;
+package org.example.logicbuilding;
 
 public class PrintWithoutLoop {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.logicbuilding;
 
 import java.util.HashMap;
 import java.util.Map;
