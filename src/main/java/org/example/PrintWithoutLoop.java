@@ -14,5 +14,4 @@ public class PrintWithoutLoop {
             System.out.print(startNo + " ");
             printNumber(startNo+1,tillNo);
         }
-
 }
