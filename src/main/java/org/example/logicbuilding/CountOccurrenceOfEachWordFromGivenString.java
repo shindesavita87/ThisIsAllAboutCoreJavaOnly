@@ -1,9 +1,9 @@
-package org.example;
+package org.example.logicbuilding;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class CountOccurrenceOfEachWorkFromGivenString {
+public class CountOccurrenceOfEachWordFromGivenString {
     public static void main(String[] args) {
         String myString = "Hello, Savita you are simply brilliant savita is great and great is Savita";
 
